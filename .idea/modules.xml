@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/code.iml" filepath="$PROJECT_DIR$/.idea/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-0821/gmall-0821.iml" filepath="$PROJECT_DIR$/gmall-0821/gmall-0821.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-0821/gmall-admin/gmall-admin.iml" filepath="$PROJECT_DIR$/gmall-0821/gmall-admin/gmall-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-0821/gmall-cart/gmall-cart.iml" filepath="$PROJECT_DIR$/gmall-0821/gmall-cart/gmall-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-0821/gmall-cart-interface/gmall-cart-interface.iml" filepath="$PROJECT_DIR$/gmall-0821/gmall-cart-interface/gmall-cart-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-0821/gmall-common/gmall-common.iml" filepath="$PROJECT_DIR$/gmall-0821/gmall-common/gmall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-0821/gmall-oms/gmall-oms.iml" filepath="$PROJECT_DIR$/gmall-0821/gmall-oms/gmall-oms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-0821/gmall-oms-interface/gmall-oms-interface.iml" filepath="$PROJECT_DIR$/gmall-0821/gmall-oms-interface/gmall-oms-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-0821/gmall-pms/gmall-pms.iml" filepath="$PROJECT_DIR$/gmall-0821/gmall-pms/gmall-pms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-0821/gmall-pms-interface/gmall-pms-interface.iml" filepath="$PROJECT_DIR$/gmall-0821/gmall-pms-interface/gmall-pms-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-0821/gmall-sms/gmall-sms.iml" filepath="$PROJECT_DIR$/gmall-0821/gmall-sms/gmall-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-0821/gmall-sms-interface/gmall-sms-interface.iml" filepath="$PROJECT_DIR$/gmall-0821/gmall-sms-interface/gmall-sms-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-0821/gmall-ums/gmall-ums.iml" filepath="$PROJECT_DIR$/gmall-0821/gmall-ums/gmall-ums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-0821/gmall-ums-interface/gmall-ums-interface.iml" filepath="$PROJECT_DIR$/gmall-0821/gmall-ums-interface/gmall-ums-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-0821/gmall-wms/gmall-wms.iml" filepath="$PROJECT_DIR$/gmall-0821/gmall-wms/gmall-wms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-0821/gmall-wms-interface/gmall-wms-interface.iml" filepath="$PROJECT_DIR$/gmall-0821/gmall-wms-interface/gmall-wms-interface.iml" />
+    </modules>
+  </component>
+</project>
